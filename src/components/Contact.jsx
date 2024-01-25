@@ -26,7 +26,7 @@ const Contact = () => {
           </p>
         </div>
         <div id="animation-column">
-          <img src="/assets/animation.gif" alt="animation" id='animation' />
+          <img src="/portfolio/assets/animation.gif" alt="animation" id='animation' />
         </div>
       </div>
     </div>

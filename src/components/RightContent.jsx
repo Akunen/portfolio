@@ -9,7 +9,7 @@ const RightContent = () => {
   return (
     <div id="right-content">
         <div id="mobile-profile">
-          <img src="/assets/me.jpg" alt="profiilikuva" />
+          <img src="/portfolio/assets/me.jpg" alt="profiilikuva" />
         </div>
             <Introduction />
             <Projects />

@@ -5,7 +5,7 @@ const LeftContent = () => {
   return(
     <div id="left-content">
     <div id="profile">
-      <img src='/assets/me.jpg' alt="profiilikuva" />
+      <img src='/portfolio/assets/me.jpg' alt="profiilikuva" />
       <h2>Aku Järvinen</h2>
       <nav id="menu">
         <ul>
