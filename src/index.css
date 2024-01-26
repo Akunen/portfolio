@@ -552,6 +552,10 @@ color: orange;
     
     }
 
+  #section-text-column h2 {
+    margin: 20px 0 0 0;
+  }
+
   #introduction, #education, #projects, .ticorporate {
     flex-direction: column;
     align-items: center;
