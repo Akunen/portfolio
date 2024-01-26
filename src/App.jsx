@@ -6,7 +6,6 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <div>
-      <title>Aku Järvinen</title>
       <div id='body'>
         <main id="main">
           <Navbar />
