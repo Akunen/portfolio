@@ -476,8 +476,8 @@ color: orange;
 
   header {
     display: flex;
-    z-index: 99999;
-    position: fixed;
+    z-index: 2;
+    
   }
 
   #mobile-profile img {
