@@ -15,7 +15,7 @@ const Introduction = () => {
             ammattikorkeassa. Olen luotettava, luova, pidän ongelmien
             ratkaisusta ja osaan työskennellä yksin tai osana tiimiä. Haluan
             tulevaisuudessa rakentaa laadukkaita sovelluksia ja etsin jatkuvasti
-            uusia mahdolliuuksia oppia ja kasvaa kehittäjänä.
+            uusia mahdollisuuksia oppia ja kasvaa kehittäjänä.
           </p>
           <h2>Taidot</h2>
           <p>
