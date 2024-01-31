@@ -274,7 +274,8 @@ header {
 
 #contact .faEnvelope,
 #contact .faLinkedin,
-#contact .faGithub {
+#contact .faGithub,
+#contact .faHatWizard{
   margin-right: 10px;
   color: #ffa500;
   font-size: 30px;
@@ -282,8 +283,10 @@ header {
 
 #contact a:link,
 #contact a:visited,
-#contact a:active {
-  color: #ffffff;
+#contact a:active,
+#contact a:focus,
+#contact a:hover{
+  color: #f5f7fa;
   text-decoration: none;
 }
 
