@@ -30,7 +30,7 @@ const Contact = () => {
               </p>
               <p>
                 <FontAwesomeIcon icon={faHatWizard} className="faHatWizard" />{' '}
-                <a href="/portfolio/assets/CV_Aku_Jarvinen.pdf" download>
+                <a href="/portfolio/assets/CV_Aku_Järvinen.pdf" download>
                   Lataa tästä CV:ni
                 </a>
               </p>
