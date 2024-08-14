@@ -12,9 +12,7 @@ const Contact = () => {
               <h2>Yhteystiedot</h2>
               <p>
                 <FontAwesomeIcon icon={faEnvelope} className="faEnvelope" />
-                <a href="mailto:jarvinen.aku@gmail.com">
-                  jarvinen.aku@gmail.com
-                </a>
+                    sukunimi.etunimi@gmail.com
               </p>
               <p>
                 <FontAwesomeIcon icon={faLinkedin} className="faLinkedin" />{' '}
